@@ -1,0 +1,107 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+.main__cabecalho {
+    background-color: aquamarine;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap: 100px;
+    padding: 30px;
+}
+
+#img__profile {
+    border: 2px solid black;
+   border-radius: 50%;
+}
+
+.main__cabecalho__titulo {
+    display: flex;
+    flex-direction: column;
+    gap: 32px;
+}
+
+.main__filho {
+    display: flex;
+    
+}
+
+.main__filho__esquerdo {
+    background-color: brown;
+    width: 50%;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: space-between;
+}
+
+.main__filho__esquerdo__contato {
+    background-color: white;
+    width: 300px;
+    margin: 50px;
+}
+
+.main__filho__esquerdo-skills {
+    background-color: white;
+    width: 300px;
+    margin: 50px;
+}
+
+.skill {
+    margin-bottom: 10px;
+}
+
+.progress {
+    height: 20px;
+    background-color: #ddd;
+    border-radius: 5px;
+}
+
+.skill1{
+    height: 20px;
+    width: 80%;
+    background-color: green;
+}
+
+.skill2 {
+    height: 20px;
+    width: 50%;
+    background-color: green;
+}
+
+.skill3 {
+    height: 20px;
+    width: 70%;
+    background-color: green;
+}
+
+.main__filho__direito {
+    background-color: blue;
+    width: 50%;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: space-between;
+}
+
+.main__filho__direito__sobre {
+    background-color: white;
+    width: 30%;
+    margin: 50px;
+}
+
+.main__filho__direito__exp {
+    background-color: white;
+    width: 30%;
+    margin: 50px;
+}
+
+.main__filho__direito__edu {
+    background-color: white;
+    width: 30%;
+    margin: 50px;
+}
+
+
