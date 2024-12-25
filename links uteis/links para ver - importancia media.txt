@@ -1,0 +1,21 @@
+ver extensões uteis no vs code: https://www.alura.com.br/artigos/extensoes-vs-code-descubra-as-mais-usadas
+
+ver comando do emmet, automatizar css e html:  https://docs.emmet.io/ 
+
+ir mais fundo em html, css conceitos básicos de ui/ux: https://cursos.alura.com.br/course/html-css-ambiente-arquivos-tags/task/147890
+
+guia boas praticas css divide seus mandamentos em 1. Base 2. Layout 3. Module 4. State 5. Theme : https://smacss.com/book/categorizing/
+
+guia das unidades em css: https://www.alura.com.br/artigos/guia-de-unidades-no-css
+
+usando APIs do Google Fonts: https://developers.google.com/fonts/docs/getting_started?hl=pt-br
+
+artigo sobre bordas em CSS: https://www.alura.com.br/artigos/css-border-estilizando-bordas-elementos-css
+
+artigo sobre gap em CSS: https://css-tricks.com/almanac/properties/g/gap/
+
+artigo sobre padrão BEM: https://www.alura.com.br/artigos/criando-componentes-css-com-padrao-bem
+
+ícones CSS: https://www.w3schools.com/Css/css_icons.asp
+
+artigo sobre lidando com arquivos do projeto: https://developer.mozilla.org/pt-BR/docs/Learn_web_development/Getting_started/Environment_setup/Dealing_with_files

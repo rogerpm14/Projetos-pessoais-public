@@ -3,6 +3,7 @@
     padding: 0;
 }
 
+/*PARTE DO CABEÇALHO*/
 .main__cabecalho {
     background-color: aquamarine;
     display: flex;
@@ -23,11 +24,13 @@
     gap: 32px;
 }
 
+/*CONTEUDO PRINCIPAL*/
 .main__filho {
     display: flex;
     
 }
 
+/*COLUNA DA ESQUERDA*/
 .main__filho__esquerdo {
     background-color: brown;
     width: 50%;
@@ -43,6 +46,7 @@
     margin: 50px;
 }
 
+/*CARD DE HABILIDADES COM GRAFICOS*/
 .main__filho__esquerdo-skills {
     background-color: white;
     width: 300px;
@@ -77,6 +81,7 @@
     background-color: green;
 }
 
+/*COLUNA DA DIREITA*/
 .main__filho__direito {
     background-color: blue;
     width: 50%;

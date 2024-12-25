@@ -1,0 +1,27 @@
+trilha caminho a seguir angular: https://techguide.sh/pt-BR/path/angular/
+
+flexbox layout guide: https://css-tricks.com/snippets/css/a-guide-to-flexbox/
+
+documentação mozilla html : https://developer.mozilla.org/pt-BR/docs/Learn/HTML/Introduction_to_HTML/Getting_started
+
+guia completo flexbox: https://www.alura.com.br/artigos/css-guia-do-flexbox
+
+seletores avançados de CSS: https://www.alura.com.br/artigos/css-seletores-avancados-aplicacoes-web
+
+organizando CSS: https://www.alura.com.br/artigos/comecando-a-organizar-seu-css
+
+entendendo funcionamento Box-model & Box-sizing: https://www.alura.com.br/artigos/entendendo-como-funciona-box-model-e-o-box-sizing
+
+ir mais fundo em CSS: https://cursos.alura.com.br/course/html-css-classes-posicionamento-flexbox/task/147896
+
+documentação JAVA SCRIP: https://developer.mozilla.org/pt-BR/docs/Learn_web_development/Core/Scripting/What_is_JavaScript
+
+vídeo sobre estilização das bordas CSS: https://cursos.alura.com.br/extra/alura-mais/css-border-estilizando-com-bordas-seus-elementos-css-c1486
+
+documentação mozilla sobre flexbox: https://developer.mozilla.org/pt-BR/docs/Learn_web_development/Core/CSS_layout/Flexbox
+
+vídeo sobre hover : https://www.youtube.com/watch?v=6jMqjQhHoHw
+
+@responsividade: artigo sobre guia de unidades de medida CSS: https://www.alura.com.br/artigos/guia-de-unidades-no-css
+
+documentaçao sobre @media queries : https://developer.mozilla.org/pt-BR/docs/Web/CSS/CSS_media_queries/Using_media_queries
